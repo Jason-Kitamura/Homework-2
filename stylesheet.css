@@ -16,19 +16,19 @@ hr {
   margin: 5px;
 }
 .body1 {
-    background-image: url(../images/Body1.jpg) !important;
+    background-image: url(images/Body1.jpg) !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;   
 }
 .body2 {
-    background-image: url(../images/Body2.jpg) !important;
+    background-image: url(images/Body2.jpg) !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;  
 }
 .body3 {
-    background-image: url(../images/Body3.jpg) !important;
+    background-image: url(images/Body3.jpg) !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
